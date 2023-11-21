@@ -18,7 +18,7 @@ A [Bonsai](https://bonsai-rx.org/) interface for the roi-detection function usin
    cd C:\Users\Valerie\AppData\Local\Bonsai
    bonsai
    ```
-5. open _roi-detection.bonsai_ this should be installed in a folder together with _roi-detection.bonsai.layout_
+5. open _roi-detection.bonsai_. this should be installed in a folder together with _roi-detection.bonsai.layout_
 6. the Bonsai layout should look like this: 
   ![image](https://github.com/vtsai881/roi-detections/assets/87097162/5e6f6574-e24c-419a-8419-4a6c05e69679)
 
