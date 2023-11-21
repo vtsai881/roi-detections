@@ -6,5 +6,5 @@ A simple, OpenCV-based GUI for light and motion detection within a drawn ROI.
 - set a threshold for motion or light detection 
 - save frames in which light or motion is detected
 
-## Dependencies
+# Dependencies
 OpenCV, numpy, pandas
