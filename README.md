@@ -20,8 +20,8 @@ A simple OpenCV interface for light and motion detection within a drawn ROI.
 9. detection will keep running until the last frame in the video or until the window is closed.
 10. detected frames will be saved in a csv to the file path specified!
  
-# Dependencies
-OpenCV, numpy, pandas
-
 # Extensions
 [roi-detection is integratable with Bonsai.](https://github.com/vtsai881/roi-detections/tree/main/bonsai)
+
+# Dependencies
+OpenCV, numpy, pandas
