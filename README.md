@@ -9,7 +9,7 @@ A simple OpenCV interface for light and motion detection within a drawn ROI.
 - save frames in which light or motion is detected
 
 # Getting Started
-1. download and run _draw_roi.py_
+1. download and run **_draw_roi.py_**
 2. to run roi detection, run `detection(vid, type, threshold)`
    - tip: to use your video webcam, set `vid` as `0`
 4. a separate window for the videofeed should open.
@@ -22,3 +22,6 @@ A simple OpenCV interface for light and motion detection within a drawn ROI.
  
 # Dependencies
 OpenCV, numpy, pandas
+
+# Extensions
+[roi-detection is integratable with Bonsai.](https://github.com/vtsai881/roi-detections/tree/main/bonsai)
