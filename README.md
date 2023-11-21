@@ -12,7 +12,6 @@ A simple OpenCV interface for light and motion detection within a drawn ROI.
    - tip: to use your video webcam, set `vid` as `0`
 4. a separate window for the videofeed should open.
 5. draw your roi by clicking the point that you want to be the top left corner of the roi followed by the point you want to be the bottom right corner of the roi. this should draw a blue rectangle roi on the frame.
-![image](https://github.com/vtsai881/roi-detections/assets/87097162/7b767ac5-b950-4088-a8af-127715e3469b)
 
 6. to delete a drawn roi, right click and the blue box should disappear.
 7. once an roi is drawn, between frame motion or pixel intensity will be calculated within it. frames in which motion or intensity is greater than the given threshold will be labeled **ROI: motion/light on {}th frame** and saved to your output csv.
