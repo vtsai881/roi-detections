@@ -1,8 +1,6 @@
 # roi-detections
-A simple OpenCV interface for light and motion detection within a drawn ROI.
-
 ![light_detection](https://github.com/vtsai881/roi-detections/assets/87097162/10c269ac-a663-4e31-a183-796e36614322)![motion_detection_cropped](https://github.com/vtsai881/roi-detections/assets/87097162/4aa19e0d-b600-44b5-b23f-b885418dab8b)
-
+A simple OpenCV interface for light and motion detection within a drawn ROI.
 
 # Key Features
 - draw a rectangle ROI of any size directly onto your video of interest
