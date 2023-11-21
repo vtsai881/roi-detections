@@ -3,7 +3,7 @@ A [Bonsai](https://bonsai-rx.org/) interface for the roi-detection function usin
 
 # Key Features
 - allows you to detect motion or light intensity real time
-- aligns csv results with arduino, ttl or other bonsai-centralized outputs
+- aligns csv results with Arduino TTLs or other Bonsai-centralized acquisitions and outputs
 
 # Getting Started
 1. download Bonsai and install the **Bonsai - Python Scripting Package**
